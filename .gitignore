@@ -106,3 +106,7 @@ venv.bak/
 # Project
 .DS_Store
 all.css
+png/*
+svg/*
+_*.js
+_*.py
